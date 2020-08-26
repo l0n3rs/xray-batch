@@ -1,3 +1,4 @@
 # xray-batch
-## 这里未使用的是高级别支持爬虫,如果是普通版把--browser-crawler改成--basic-crawler即可
+## 这里未使用的是高级别支持爬虫
+## 如果是普通版把--browser-crawler改成--basic-crawler也可以实现爬虫，只不过没有高级别效果好
 ## 脚本放在xray根目录运行即可
